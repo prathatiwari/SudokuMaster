@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SudokuMaster</string>
+    <string name="unsolvable">This problem can\'t be solved</string>
+    <string name="invalid_puzzle">Invalid Puzzle</string>
+    <string name="solution">SOLUTION\n\n%1$s</string>
+    <string name="easy">Easy</string>
+    <string name="anti_backtracking">Anti Backtracking</string>
+    <string name="invalid">Invalid</string>
+    <string name="solve">Solve</string>
+</resources>
